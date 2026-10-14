@@ -1,4 +1,6 @@
-﻿namespace VehicleManagementAPI.Models
+﻿using Microsoft.AspNetCore.Http.HttpResults;
+
+namespace VehicleManagementAPI.Models
 {
     public class Car : Vehicle
     {
@@ -35,6 +37,7 @@
 
         public double CalculateFuelCost(double distance)
         {
+            if (distance <= 0) return 0;
 
             return distance/100 * 8 * 1.5;
         }

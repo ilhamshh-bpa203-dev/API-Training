@@ -29,6 +29,7 @@
 
         public double CalculateFuelCost(double distance)
         {
+            if (distance <= 0) return 0;
 
             return distance / 100 * 4 * 1.5;
         }

@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\dtos\\vehiclestatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:dtos\\vehiclestatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\validators\\basevehicledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:validators\\basevehicledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\dtos\\fuelcostresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:dtos\\fuelcostresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\dtos\\vehicleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:dtos\\vehicleresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\dtos\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:dtos\\updatevehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\dtos\\loadcargodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:dtos\\loadcargodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\validators\\createtruckdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:validators\\createtruckdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|c:\\users\\ilham\\desktop\\api training\\vehiclemanagementapi\\dtos\\createtruckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A062BF9D-FE2C-4793-A0D7-F8BD0C3C6AF1}|VehicleManagementAPI.csproj|solutionrelative:dtos\\createtruckdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,89 +26,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 246,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VehicleStatisticsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\VehicleStatisticsDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\VehicleStatisticsDto.cs",
-              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\VehicleStatisticsDto.cs",
-              "RelativeToolTip": "DTOs\\VehicleStatisticsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Title": "BaseVehicleDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\Validators\\BaseVehicleDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\BaseVehicleDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\Validators\\BaseVehicleDtoValidator.cs",
+              "RelativeToolTip": "Validators\\BaseVehicleDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:57:58.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FuelCostResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\FuelCostResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\FuelCostResponseDto.cs",
-              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\FuelCostResponseDto.cs",
-              "RelativeToolTip": "DTOs\\FuelCostResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:57:03.661Z",
+              "WhenOpened": "2026-10-14T14:13:48.003Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "VehicleResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\VehicleResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\VehicleResponseDto.cs",
-              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\VehicleResponseDto.cs",
-              "RelativeToolTip": "DTOs\\VehicleResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:56:17.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateVehicleDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\UpdateVehicleDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UpdateVehicleDto.cs",
-              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\UpdateVehicleDto.cs",
-              "RelativeToolTip": "DTOs\\UpdateVehicleDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:56:03.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Truck.cs",
               "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\Models\\Truck.cs",
               "RelativeDocumentMoniker": "Models\\Truck.cs",
               "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\Models\\Truck.cs",
               "RelativeToolTip": "Models\\Truck.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:55:25.211Z",
+              "WhenOpened": "2026-10-14T14:55:33.713Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoadCargoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\LoadCargoDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\LoadCargoDto.cs",
-              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\LoadCargoDto.cs",
-              "RelativeToolTip": "DTOs\\LoadCargoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateTruckDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\Validators\\CreateTruckDtoValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\CreateTruckDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\Validators\\CreateTruckDtoValidator.cs",
+              "RelativeToolTip": "Validators\\CreateTruckDtoValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T05:54:46.67Z",
+              "WhenOpened": "2026-10-14T14:53:15.25Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateTruckDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\CreateTruckDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateTruckDto.cs",
+              "ToolTip": "C:\\Users\\Ilham\\Desktop\\API training\\VehicleManagementAPI\\DTOs\\CreateTruckDto.cs",
+              "RelativeToolTip": "DTOs\\CreateTruckDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T14:52:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },

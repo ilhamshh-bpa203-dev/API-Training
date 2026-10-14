@@ -1,14 +1,12 @@
-﻿namespace VehicleManagementAPI.DTOs
+﻿using VehicleManagementAPI.Models;
+using VehicleManagementAPI.Utilities.Enums;
+
+namespace VehicleManagementAPI.DTOs
 {
-    public class CreateMotorcycleDto
+    public class CreateMotorcycleDto:BaseVehicleDto
     {
-        public string Brand { get; set; }
-        public int Year { get; set; }
-        public int MaxSpeed { get; set; }
-        public string PlateNumber { get; set; }
-        public double FuelLevel { get; set; }
         public int EngineCapacity { get; set; }
-        public string Type { get; set; }
+        public MotorcycleType Type { get; set; }
         public bool HasSidecar { get; set; }
 
 
